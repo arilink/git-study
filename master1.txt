@@ -1,1 +1,2 @@
 add master 1
+maset update 2
